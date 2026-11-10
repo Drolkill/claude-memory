@@ -1,7 +1,7 @@
 ---
 name: moskva-na-volne-wine-department
 description: Концепция QR-приложения с рекомендацией вин для отдела российских вин «Москвы на волне» — требования, хостинг
-aliases: [винное приложение, wine app, mnv-vino]
+aliases: [винное приложение, wine app]
 ---
 
 Часть кейса [[moskva-na-volne]].
